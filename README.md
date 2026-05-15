@@ -1,3 +1,3 @@
 # Remote Controlled Arduino Car
 
-Project developed with my 9-yo son.
+Modified project to fix some issues and add more featurees
